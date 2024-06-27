@@ -1,1 +1,1 @@
-Tensorflow is required for the progream to function
+Tensorflow is required for the program to function
